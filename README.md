@@ -1,5 +1,3 @@
-Aplicacion de escritorio con el lenguaje C# de .NET
-Libreria ADO.NET 
-POO
-Base de datos SQL
-Arquitectura en capas 
+Aplicacion de escritorio para gestionar tu coleccion Pokemon. Esta aplicacion se desarrolló con C# en .NET Framework y usando ADO.NET, la base de datos me fue proporcionada.
+
+Destkop app for manage your Pokemon collection. This app is developed with C# in .NET Framework and using ADO.NET, the database was provided to me.
